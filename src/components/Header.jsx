@@ -1,6 +1,4 @@
-
-
-export default function Header(){
+function Header(){
   return (  
     <header>
       <img src= "src/assets/logo.png"/>
@@ -8,3 +6,5 @@ export default function Header(){
     </header>
   )
 }
+
+export default Header

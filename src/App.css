@@ -5,7 +5,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 60px;
+  height: 80px;
   font-size: 1.3rem;
   font-weight: 600;
 }
@@ -13,5 +13,65 @@ header {
 img {
   margin-right: 10px;
   size: 60px;
+}
+
+article{
+  font-family: Inter;
+  padding: 40px;
+  display: flex;
+  align-items: center;
+  max-height: 220px;
+}
+
+.location-img-container{
+  border-radius: 8px;
+  width: 500px;
+  height: 220px;
+  max-width: 500px;
+  overflow: hidden;
+}
+
+.log-info{
+  padding: 20px;
+  min-width: auto;
+}
+
+.location-img {
+  height: 100%;
+  width: 100%;
+  object-fit:cover
+}
+
+.marker-img{
+  width: 14px;
+}
+
+.country{
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: 500;
+  margin-right: 30px
+}
+
+.mapslink{
+  font-size: 0.8rem;
+  color: forestgreen;
+}
+
+
+.location-name{
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.date {
+  font-weight: 600;
+}
+
+.text {
+  display: -webkit-box;
+  overflow: hidden;
 }
 
