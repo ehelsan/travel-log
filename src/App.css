@@ -25,10 +25,18 @@ article{
 
 .location-img-container{
   border-radius: 8px;
-  width: 500px;
-  height: 220px;
-  max-width: 500px;
+  flex: none;
+  width: 100%;
+  max-width: 300px;
+  height: 200px;
   overflow: hidden;
+}
+
+.location-img {
+  display: block;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
 }
 
 .log-info{
@@ -36,11 +44,7 @@ article{
   min-width: auto;
 }
 
-.location-img {
-  height: 100%;
-  width: 100%;
-  object-fit:cover
-}
+
 
 .marker-img{
   width: 12px;
