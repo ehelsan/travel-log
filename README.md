@@ -6,10 +6,11 @@ The application is built with:
 - React.js
 - JavaScript
 - HTML & CSS
-- Vite (a frontend build tool for fast builds and local development)
+- Vite (a frontend build tool for fast builds and local development)  
 
-![screenshot](src/assets/screenshot.png)
-Currently, two official plugins are available:
+
+<img src="./assets/screenshot.png" alt="Screenshot" width="400"/>  
+  
 
 ## Getting Started
 
