@@ -22,9 +22,7 @@ To run this application locally:
    cd travel-log
 
 2. **Install dependencies:**
-   ```bash
-   git clone https://github.com/ehelsan/travel-log.git
-   cd travel-log
+   npm install
 
 
 3. **Start the development server:**
