@@ -22,12 +22,11 @@ To run this application locally:
    cd travel-log
 
 2. **Install dependencies:**
-  ```bash
+   ```bash
    npm install
 
-
 3. **Start the development server:**
-  ```bash
+   ```bash
    npm run dev
 
 3. **Open in your browser:**  
