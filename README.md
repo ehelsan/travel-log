@@ -9,7 +9,7 @@ The application is built with:
 - Vite (a frontend build tool for fast builds and local development)  
 
 
-<img src="./assets/screenshot.png" alt="Screenshot" width="400"/>  
+<img src="src/assets/screenshot.png" alt="Screenshot" width="400"/>  
   
 
 ## Getting Started
